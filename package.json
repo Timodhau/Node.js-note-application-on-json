@@ -1,7 +1,6 @@
 {
   "name": "notes-node",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "dependencies": {
     "lodash": "^4.13.1",
     "yargs": "^4.7.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timodhau/Node.js-note-application-on-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Timodhau/Node.js-note-application-on-json/issues"
+  },
+  "homepage": "https://github.com/Timodhau/Node.js-note-application-on-json#readme",
+  "description": ""
 }
